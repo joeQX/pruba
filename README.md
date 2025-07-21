@@ -1,2 +1,2 @@
-# pruba
+# prueba
 solo es una prueba
